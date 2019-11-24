@@ -27,7 +27,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2013%20results/12.png"/>
 <img src="OTB2013%20results/24.png"/>
 
-Results on OTB-2015 dataset:
+## Results on OTB-2015 dataset:
 <img src="OTB2015%20results/1.png"/> 
 <img src="OTB2015%20results/13.png"/>
 <img src="OTB2015%20results/2.png"/>
@@ -52,3 +52,30 @@ Results on OTB-2015 dataset:
 <img src="OTB2015%20results/23.png"/>
 <img src="OTB2015%20results/12.png"/>
 <img src="OTB2015%20results/24.png"/>
+
+## Results on VOT2018 dataset:
+<img src="VOT2018%20results/1.png"/> 
+<img src="VOT2018%20results/13.png"/>
+<img src="VOT2018%20results/2.png"/>
+<img src="VOT2018%20results/14.png"/>
+<img src="VOT2018%20results/3.png"/>
+<img src="VOT2018%20results/15.png"/>
+<img src="VOT2018%20results/4.png" />
+<img src="VOT2018%20results/16.png"/>
+<img src="VOT2018%20results/5.png"/>
+<img src="VOT2018%20results/17.png"/>
+<img src="VOT2018%20results/6.png"/>
+<img src="VOT2018%20results/18.png"/>
+<img src="VOT2018%20results/7.png"/>
+<img src="VOT2018%20results/19.png"/>
+<img src="VOT2018%20results/8.png"/>
+<img src="VOT2018%20results/20.png"/>
+<img src="VOT2018%20results/9.png"/>
+<img src="VOT2018%20results/21.png"/>
+<img src="VOT2018%20results/10.png"/>
+<img src="VOT2018%20results/22.png"/>
+<img src="VOT2018%20results/11.png"/>
+<img src="VOT2018%20results/23.png"/>
+<img src="VOT2018%20results/12.png"/>
+<img src="VOT2018%20results/24.png"/>
+
