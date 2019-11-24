@@ -108,6 +108,6 @@ Overview Expected Overlap Analysis Experiment Analysis
 <img src="VOT2018%20results/Overview Expected Overlap Analysis Experiment Analysis.png"/>
 
 ## Qualitative Comparisons of State-of-the-art Visual tracking Methods on the VOT2018 Dataset:
-[![Watch the video]](https://youtu.be/Ro8Cb_LF45c)
+[![Soccer1]](https://www.youtube.com/watch?v=HKdQpRZGNfw)
 
 
