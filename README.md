@@ -54,7 +54,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2015%20results/24.png"/>
 
 ## Results on VOT2018 dataset:
-<img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png" width="150%"/> 
+<img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/> 
 <img src="VOT2018%20results/AR plot for experiment baseline (mean)_Accuracy-Robustness_Experiment baseline.png"/>
 <img src="VOT2018%20results/AR plot for experiment baseline (pooled)_Accuracy-Robustness_Experiment baseline.png"/>
 <img src="VOT2018%20results/AR plot for experiment baseline (weighted_mean)_Accuracy-Robustness_Experiment baseline.png"/>
