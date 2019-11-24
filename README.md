@@ -94,7 +94,7 @@ Overlap plot for motion change in experiment unsupervised
 <img src="VOT2018%20results/Overlap plot for tag tag_motion_change in experiment unsupervised.png"/>
 Overlap plot for occlusion in experiment unsupervised
 <img src="VOT2018%20results/Overlap plot for tag tag_occlusion in experiment unsupervised.png"/>
-Overlap plot for size_change in experiment unsupervised
+Overlap plot for size change in experiment unsupervised
 <img src="VOT2018%20results/Overlap plot for tag tag_size_change in experiment unsupervised.png"/>
 
 
