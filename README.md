@@ -1,5 +1,5 @@
 # Deep Learning for Visual Tracking: A Comprehensive Survey
-The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods 
+The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods on the OTB-2013, OTB-2018, VOT-2018, and LaSOT datasets
 
 ## Results on OTB-2013 dataset:
 <img src="OTB2013%20results/1.png"/> 
