@@ -74,5 +74,5 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="VOT2018%20results/Overlap plot for tag tag_illum_change in experiment unsupervised.png"/>
 <img src="VOT2018%20results/Overlap plot for tag tag_motion_change in experiment unsupervised.png"/>
 <img src="VOT2018%20results/Overlap plot for tag tag_occlusion in experiment unsupervised.png"/>
-<img src="VOT2018%20results/Overlap plot for tag tag_size_change in experiment unsupervised.png" width="800"/>
+<img src="VOT2018%20results/Overlap plot for tag tag_size_change in experiment unsupervised.png"/>
 
