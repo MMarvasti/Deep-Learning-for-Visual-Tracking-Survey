@@ -111,10 +111,10 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 
 ## Experiment Baseline (Speed Report):
 **- Raw Frame per Second (FPS):**
-<img src="VOT2018%20results/BaselineSpeedVOT.pdf" />
+<img src="VOT2018%20results/BaselineSpeedVOT-page-001.jpg" />
 
 **- Normalized (Equivalent Filter Operations (EFO): "tracker speed in terms of a predefined filtering operation that the VOT tookit automatically carries out prior to running the experiments"):**
-<img src="VOT2018%20results/BaselineSpeedVOTEFO.pdf" />
+<img src="VOT2018%20results/BaselineSpeedVOTEFO-page-001.jpg" />
 
 ## Experiment Unsupervised (Overall Comparisons):
 **- Average overlap:**
@@ -147,10 +147,10 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 
 ## Experiment Unsupervised (Speed Report):
 **- Raw Frame per Second (FPS):**
-<img src="VOT2018%20results/UnsupervisedSpeed.pdf" />
+<img src="VOT2018%20results/UnsupervisedSpeed-page-001.jpg" />
 
 **- Normalized (Equivalent Filter Operations (EFO): "tracker speed in terms of a predefined filtering operation that the VOT tookit automatically carries out prior to running the experiments"):**
-<img src="VOT2018%20results/UnsupervisedSpeedVOTEFO.pdf" />
+<img src="VOT2018%20results/UnsupervisedSpeedVOTEFO-page-001.jpg" />
 
 ## Overall Comparisons:
 **- Report Overview:**
