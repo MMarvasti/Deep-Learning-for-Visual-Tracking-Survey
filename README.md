@@ -4,7 +4,9 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 ## Performance Comparison of Visual Trackers on OTB-2013 Dataset ([[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html))([[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156)): 
 ### Average Precision Plot (Ranking Based on Area under Curve (AUC)):
 <img src="OTB2013%20results/1.png"/> 
+### Average Success Plot (Ranking Based on Area under Curve (AUC)):
 <img src="OTB2013%20results/13.png"/>
+### Attribute-based Comparison: Average Precision Plot (Ranking Based on Area under Curve (AUC)):
 <img src="OTB2013%20results/2.png"/>
 <img src="OTB2013%20results/14.png"/>
 <img src="OTB2013%20results/3.png"/>
