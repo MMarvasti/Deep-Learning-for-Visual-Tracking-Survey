@@ -109,7 +109,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 **- AR plot for no degradation:**
 <img src="VOT2018%20results/AR plot for no degradation in experiment baseline_Accuracy-Robustness_Experiment baseline.png" />
 
-## Experiment Baseline (Speed Report):
+## Experiment Baseline (Speed Report) [first to third methods are shown by yellow, blue, and green colors.]:
 **- Raw Frame per Second (FPS):**
 <img src="VOT2018%20results/BaselineSpeedVOT-page-001.jpg" />
 
@@ -145,7 +145,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 **- Overlap plot for no degradation:**
 <img src="VOT2018%20results/Overlap plot for tag tag_empty in experiment unsupervised.png"/>
 
-## Experiment Unsupervised (Speed Report):
+## Experiment Unsupervised (Speed Report): [first to third methods are shown by yellow, blue, and green colors.]:
 **- Raw Frame per Second (FPS):**
 <img src="VOT2018%20results/UnsupervisedSpeed-page-001.jpg" />
 
