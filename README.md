@@ -1,7 +1,7 @@
 # Deep Learning for Visual Tracking: A Comprehensive Survey
 The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods on the OTB-2013, OTB-2018, VOT-2018, and LaSOT datasets
 
-## Performance Comparison of Visual trackwers in terms of Precision and Success Plots on OTB-2013 dataset ([[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html))([[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156)): 
+## Performance Comparison of Visual trackers on OTB-2013 dataset ([[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html))([[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156)): 
 ### Average Precision Plot (Ranking Based on Area under Curve (AUC)):
 <img src="OTB2013%20results/1.png"/> 
 <img src="OTB2013%20results/13.png"/>
@@ -28,7 +28,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2013%20results/12.png"/>
 <img src="OTB2013%20results/24.png"/>
 
-## Results on OTB-2015 dataset ([[OTB-2015 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html))([[OTB-2015 Paper]](https://ieeexplore.ieee.org/document/7001050)):
+## Performance Comparison of Visual trackers on OTB-2015 dataset ([[OTB-2015 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html))([[OTB-2015 Paper]](https://ieeexplore.ieee.org/document/7001050)):
 <img src="OTB2015%20results/1.png"/> 
 <img src="OTB2015%20results/13.png"/>
 <img src="OTB2015%20results/2.png"/>
@@ -54,7 +54,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2015%20results/12.png"/>
 <img src="OTB2015%20results/24.png"/>
 
-## Results on VOT2018 dataset ([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))([[VOT-2018 Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_1)):
+##  Performance Comparison of Visual trackers on VOT-2018 dataset ([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))([[VOT-2018 Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_1)):
 AR plot for camera motion in experiment baseline (Accuracy-Robustness: Experiment baseline)
 <img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/> 
 AR plot for experiment baseline (mean) (Accuracy-Robustness: Experiment baseline)
@@ -168,7 +168,7 @@ Overview Expected Overlap Analysis Experiment Analysis
 [![Drone1]](https://www.youtube.com/watch?v=RvmgMrItjmI)
 [![Flamingo]](https://www.youtube.com/watch?v=n0HDvwaMJaY)
 
-## Results on LaSOT dataset ([[LaSOT Dataset]](https://cis.temple.edu/lasot/))([[LaSOT Paper]](https://arxiv.org/abs/1809.07845)):
+##  Performance Comparison of Visual trackers on LaSOT dataset ([[LaSOT Dataset]](https://cis.temple.edu/lasot/))([[LaSOT Paper]](https://arxiv.org/abs/1809.07845)):
 <img src="LaSOT%20results/1.png"/> 
 <img src="LaSOT%20results/16.png"/> 
 <img src="LaSOT%20results/2.png"/> 
