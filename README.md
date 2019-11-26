@@ -152,7 +152,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 **- Normalized (Equivalent Filter Operations (EFO): "tracker speed in terms of a predefined filtering operation that the VOT tookit automatically carries out prior to running the experiments"):**
 <img src="VOT2018%20results/UnsupervisedSpeedVOTEFO-page-001.jpg" />
 
-## Overall Comparisons:
+## Overall Comparison:
 **- Report Overview:**
 <img src="VOT2018%20results/Report Overview.png"/>
 
