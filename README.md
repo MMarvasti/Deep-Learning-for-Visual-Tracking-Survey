@@ -137,8 +137,8 @@ Overview Expected Overlap Analysis Experiment Analysis
 <img src="VOT2018%20results/Overview Expected Overlap Analysis Experiment Analysis.png"/>
 
 ## Qualitative Comparisons of State-of-the-art Visual Tracking Methods on the VOT2018 Dataset:
-[BMX_Video](https://www.youtube.com/watch?v=M4GVQZt7MnU), 
-[Crabs1_Video](https://www.youtube.com/watch?v=NfpM9BqAaOo), 
+- [BMX_Video](https://www.youtube.com/watch?v=M4GVQZt7MnU), 
+- [Crabs1_Video](https://www.youtube.com/watch?v=NfpM9BqAaOo), 
 [Gymnastics3_Video](https://www.youtube.com/watch?v=fB9S314JZnc)
 [Motorcross2_Video](https://www.youtube.com/watch?v=MfveEsYkImw)
 [Singer3_Video](https://www.youtube.com/watch?v=iUPZqkkqu7Y)
