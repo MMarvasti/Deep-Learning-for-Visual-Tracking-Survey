@@ -58,6 +58,17 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2015%20results/24.png"/>
 
 ##  Performance Comparison of Visual Trackers on VOT-2018 Dataset [[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html)[[VOT-2018 Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_1):
+## Experiment Baseline:
+**- Expected overlap curves for baseline (Expected overlap analysis: Experiment baseline):**
+<img src="VOT2018%20results/Expected overlap curves for baseline_Expected overlap analysis_Experiment baseline.png"/>
+
+**- Expected overlap scores for baseline (Expected overlap analysis: Experiment baseline):**
+<img src="VOT2018%20results/Expected overlap scores for baseline_Expected overlap analysis_Experiment baseline.png"/>
+
+**- Overview Expected Overlap Analysis Experiment Analysis:**
+<img src="VOT2018%20results/Overview Expected Overlap Analysis Experiment Analysis.png"/>
+
+
 AR plot for camera motion in experiment baseline (Accuracy-Robustness: Experiment baseline)
 <img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/> 
 
@@ -85,20 +96,30 @@ AR plot for occlusion in experiment baseline (Accuracy-Robustness: Experiment ba
 AR plot for size change in experiment baseline (Accuracy-Robustness: Experiment baseline)
 <img src="VOT2018%20results/AR plot for size change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
 
-Expected overlap curves for baseline (Expected overlap analysis: Experiment baseline)
-<img src="VOT2018%20results/Expected overlap curves for baseline_Expected overlap analysis_Experiment baseline.png"/>
 
-Expected overlap scores for baseline (Expected overlap analysis: Experiment baseline)
-<img src="VOT2018%20results/Expected overlap scores for baseline_Expected overlap analysis_Experiment baseline.png"/>
 
-Experiment unsupervised (average) (Experiment unsupervised)
-<img src="VOT2018%20results/Experiment unsupervised (average)_Experiment unsupervised.png"/>
+
 
 Orderings for failures (Accuracy-Robustness: Experiment baseline)
 <img src="VOT2018%20results/Orderings for failures_Accuracy-Robustness_Experiment baseline.png"/>
 
 Orderings for overall overlap (Accuracy-Robustness: Experiment baseline)
 <img src="VOT2018%20results/Orderings for overall overlap_Accuracy-Robustness_Experiment baseline.png"/>
+
+Table Accuracy (Accuracy-Robustness: Experiment Baseline)
+<img src="VOT2018%20results/Accuracy Table Accuracy-Robustness Experiment Baseline.png"/>
+
+Table Robustness (Accuracy-Robustness: Experiment Baseline)
+<img src="VOT2018%20results/Robustness Table Accuracy-Robustness Experiment Baseline.png"/>
+
+## Experiment Unsupervised:
+
+
+
+## Experiment Real-time:
+
+Experiment unsupervised (average) (Experiment unsupervised)
+<img src="VOT2018%20results/Experiment unsupervised (average)_Experiment unsupervised.png"/>
 
 Orderings for overall overlap (Experiment unsupervised)
 <img src="VOT2018%20results/Orderings for overall overlap_Experiment unsupervised.png"/>
@@ -121,20 +142,13 @@ Overlap plot for occlusion in experiment unsupervised
 Overlap plot for size change in experiment unsupervised
 <img src="VOT2018%20results/Overlap plot for tag tag_size_change in experiment unsupervised.png"/>
 
-Table Accuracy (Accuracy-Robustness: Experiment Baseline)
-<img src="VOT2018%20results/Accuracy Table Accuracy-Robustness Experiment Baseline.png"/>
-
-Table Robustness (Accuracy-Robustness: Experiment Baseline)
-<img src="VOT2018%20results/Robustness Table Accuracy-Robustness Experiment Baseline.png"/>
-
 Report Overview
 <img src="VOT2018%20results/Report Overview.png"/>
 
 Overlap Overview Experiment Unsupervised
 <img src="VOT2018%20results/Overlap Overview Experiment Unsupervised.png"/>
 
-Overview Expected Overlap Analysis Experiment Analysis
-<img src="VOT2018%20results/Overview Expected Overlap Analysis Experiment Analysis.png"/>
+
 
 ## Qualitative Comparisons of State-of-the-art Visual Tracking Methods on VOT2018 Dataset (Under [TraX Protocol](https://www.sciencedirect.com/science/article/pii/S0925231217303065)):
 [BMX_Video](https://www.youtube.com/watch?v=M4GVQZt7MnU), 
@@ -200,7 +214,7 @@ Overview Expected Overlap Analysis Experiment Analysis
 **- Average Performance Comparisons of Visual Tracking Methods:**
 <img src="LaSOT%20results/1.png"/> 
 <img src="LaSOT%20results/16.png"/> 
-**- Attribute-based Performance Comparisons (Eleven attributes including: Illumination Variation (IV), Scale Variation (SV), Occlusion (OCC), Deformation (DEF), Motion Blur (MB), Fast Motion (FM), In-Plane Rotation (IPR), Out-of-Plane Rotation (OPR), Out-of-View (OV), Background Clutter (BC), Low Resolution (LR)):**
+**- Attribute-based Performance Comparisons (Fourteen attributes including: Illumination Variation (IV), Scale Variation (SV), Deformation (DEF), Motion Blur (MB), Fast Motion (FM), Out-of-View (OV), Background Clutter (BC), Low Resolution (LR), Aspect Ratio Change (ARC), Camera Motion (CM), Full Occlusion (FOC), Partial Occlusion (POC), Viewpoint Change (VC), Rotation (ROT)):**
 <img src="LaSOT%20results/2.png"/> 
 <img src="LaSOT%20results/17.png"/> 
 <img src="LaSOT%20results/3.png"/> 
