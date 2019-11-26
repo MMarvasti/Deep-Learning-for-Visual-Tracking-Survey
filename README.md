@@ -58,97 +58,97 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2015%20results/24.png"/>
 
 ##  Performance Comparison of Visual Trackers on VOT-2018 Dataset [[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html)[[VOT-2018 Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_1):
-## Experiment Baseline:
-**- Expected overlap curves for baseline (Expected overlap analysis: Experiment baseline):**
+## Experiment Baseline (Expected Overlap Analysis):
+**- Expected overlap curves:**
 <img src="VOT2018%20results/Expected overlap curves for baseline_Expected overlap analysis_Experiment baseline.png"/>
 
-**- Expected overlap scores for baseline (Expected overlap analysis: Experiment baseline):**
+**- Expected overlap scores:**
 <img src="VOT2018%20results/Expected overlap scores for baseline_Expected overlap analysis_Experiment baseline.png"/>
 
-**- Overview Expected Overlap Analysis Experiment Analysis:**
+**- Overview: Expected Overlap Analysis:**
 <img src="VOT2018%20results/Overview Expected Overlap Analysis Experiment Analysis.png"/>
 
-
-AR plot for camera motion in experiment baseline (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/> 
-
-AR plot for experiment baseline (mean) (Accuracy-Robustness: Experiment baseline)
+## Experiment Baseline (Accuracy-Robustness (AR) Ranking):
+**- AR plot (mean):**
 <img src="VOT2018%20results/AR plot for experiment baseline (mean)_Accuracy-Robustness_Experiment baseline.png"/>
 
-AR plot for experiment baseline (pooled) (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for experiment baseline (pooled)_Accuracy-Robustness_Experiment baseline.png"/>
-
-AR plot for experiment baseline (weighted_mean) (Accuracy-Robustness: Experiment baseline)
+**- AR plot (weighted_mean):**
 <img src="VOT2018%20results/AR plot for experiment baseline (weighted_mean)_Accuracy-Robustness_Experiment baseline.png"/>
 
-AR plot for illumination change in experiment baseline (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for illumination change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
+**- AR plot (pooled):**
+<img src="VOT2018%20results/AR plot for experiment baseline (pooled)_Accuracy-Robustness_Experiment baseline.png"/>
 
-AR plot for motion change in experiment baseline (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for motion change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
-
-AR plot for no degradation in experiment baseline (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for no degradation in experiment baseline_Accuracy-Robustness_Experiment baseline.png" />
-
-AR plot for occlusion in experiment baseline (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for occlusion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
-
-AR plot for size change in experiment baseline (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/AR plot for size change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
-
-
-
-
-
-Orderings for failures (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/Orderings for failures_Accuracy-Robustness_Experiment baseline.png"/>
-
-Orderings for overall overlap (Accuracy-Robustness: Experiment baseline)
-<img src="VOT2018%20results/Orderings for overall overlap_Accuracy-Robustness_Experiment baseline.png"/>
-
-Table Accuracy (Accuracy-Robustness: Experiment Baseline)
+**- Table: Accuracy:**
 <img src="VOT2018%20results/Accuracy Table Accuracy-Robustness Experiment Baseline.png"/>
 
-Table Robustness (Accuracy-Robustness: Experiment Baseline)
+**- Table: Robustness:**
 <img src="VOT2018%20results/Robustness Table Accuracy-Robustness Experiment Baseline.png"/>
 
-## Experiment Unsupervised:
+## Experiment Baseline (Attribute-based Ranking: Camera Motion, Illumination Change, Motion Change, Occlusion, Size Change, No Degradation):
+**- Orderings for overall overlap:**
+<img src="VOT2018%20results/Orderings for overall overlap_Accuracy-Robustness_Experiment baseline.png"/>
+
+**- Orderings for failures:**
+<img src="VOT2018%20results/Orderings for failures_Accuracy-Robustness_Experiment baseline.png"/>
+
+**- AR plot for camera motion:**
+<img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/> 
+
+**- AR plot for illumination change:**
+<img src="VOT2018%20results/AR plot for illumination change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
+
+**- AR plot for motion change:**
+<img src="VOT2018%20results/AR plot for motion change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
+
+**- AR plot for occlusion:**
+<img src="VOT2018%20results/AR plot for occlusion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
+
+**- AR plot for size change:**
+<img src="VOT2018%20results/AR plot for size change in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/>
+
+**- AR plot for no degradation:**
+<img src="VOT2018%20results/AR plot for no degradation in experiment baseline_Accuracy-Robustness_Experiment baseline.png" />
+
+## Experiment Baseline (Speed Report):
 
 
 
-## Experiment Real-time:
 
-Experiment unsupervised (average) (Experiment unsupervised)
+
+## Experiment Unsupervised (Overall Comparisons):
+**- Average overlap:**
 <img src="VOT2018%20results/Experiment unsupervised (average)_Experiment unsupervised.png"/>
 
-Orderings for overall overlap (Experiment unsupervised)
-<img src="VOT2018%20results/Orderings for overall overlap_Experiment unsupervised.png"/>
-
-Overlap plot for camera motion in experiment unsupervised
-<img src="VOT2018%20results/Overlap plot for tag tag_camera_motion in experiment unsupervised.png"/>
-
-Overlap plot for no degradation in experiment unsupervised
-<img src="VOT2018%20results/Overlap plot for tag tag_empty in experiment unsupervised.png"/>
-
-Overlap plot for illum change in experiment unsupervised
-<img src="VOT2018%20results/Overlap plot for tag tag_illum_change in experiment unsupervised.png"/>
-
-Overlap plot for motion change in experiment unsupervised
-<img src="VOT2018%20results/Overlap plot for tag tag_motion_change in experiment unsupervised.png"/>
-
-Overlap plot for occlusion in experiment unsupervised
-<img src="VOT2018%20results/Overlap plot for tag tag_occlusion in experiment unsupervised.png"/>
-
-Overlap plot for size change in experiment unsupervised
-<img src="VOT2018%20results/Overlap plot for tag tag_size_change in experiment unsupervised.png"/>
-
-Report Overview
-<img src="VOT2018%20results/Report Overview.png"/>
-
-Overlap Overview Experiment Unsupervised
+**- Table: Overlap Overview:**
 <img src="VOT2018%20results/Overlap Overview Experiment Unsupervised.png"/>
 
+**- Orderings for overall overlap:**
+<img src="VOT2018%20results/Orderings for overall overlap_Experiment unsupervised.png"/>
 
+## Experiment Unsupervised (Attribute-based Comparisons):
+**- Overlap plot for camera motion:**
+<img src="VOT2018%20results/Overlap plot for tag tag_camera_motion in experiment unsupervised.png"/>
+
+**- Overlap plot for illum change:**
+<img src="VOT2018%20results/Overlap plot for tag tag_illum_change in experiment unsupervised.png"/>
+
+**- Overlap plot for motion change:**
+<img src="VOT2018%20results/Overlap plot for tag tag_motion_change in experiment unsupervised.png"/>
+
+**- Overlap plot for occlusion:**
+<img src="VOT2018%20results/Overlap plot for tag tag_occlusion in experiment unsupervised.png"/>
+
+**- Overlap plot for size change:**
+<img src="VOT2018%20results/Overlap plot for tag tag_size_change in experiment unsupervised.png"/>
+
+**- Overlap plot for no degradation:**
+<img src="VOT2018%20results/Overlap plot for tag tag_empty in experiment unsupervised.png"/>
+
+## Experiment Unsupervised (Speed Report):
+
+## Overall Comparisons:
+**- Report Overview:**
+<img src="VOT2018%20results/Report Overview.png"/>
 
 ## Qualitative Comparisons of State-of-the-art Visual Tracking Methods on VOT2018 Dataset (Under [TraX Protocol](https://www.sciencedirect.com/science/article/pii/S0925231217303065)):
 [BMX_Video](https://www.youtube.com/watch?v=M4GVQZt7MnU), 
