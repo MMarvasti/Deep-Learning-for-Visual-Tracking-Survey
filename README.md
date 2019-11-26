@@ -198,3 +198,62 @@ Overview Expected Overlap Analysis Experiment Analysis
 <img src="LaSOT%20results/29.png"/> 
 <img src="LaSOT%20results/15.png"/> 
 <img src="LaSOT%20results/30.png"/> 
+
+## References (Evaluated Visual Tracking Methods):
+([[C. Ma, J. B. Huang, X. Yang, and M. H. Yang, “Hierarchical convolutional features for visual tracking,” in Proc. IEEE ICCV, 2015, pp. 3074–3082.] [HCFT]](https://ieeexplore.ieee.org/document/8434334))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))
+
+
+
+
+
+
+
+
+
+
