@@ -27,7 +27,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2013%20results/12.png"/>
 <img src="OTB2013%20results/24.png"/>
 
-## Results on OTB-2015 dataset:
+## Results on OTB-2015 dataset ([[OTB-2015 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html))([[OTB-2015 Paper]](https://ieeexplore.ieee.org/document/7001050)):
 <img src="OTB2015%20results/1.png"/> 
 <img src="OTB2015%20results/13.png"/>
 <img src="OTB2015%20results/2.png"/>
@@ -53,7 +53,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2015%20results/12.png"/>
 <img src="OTB2015%20results/24.png"/>
 
-## Results on VOT2018 dataset:
+## Results on VOT2018 dataset ([[VOT-2018 Dataset]](http://www.votchallenge.net/vot2018/dataset.html))([[VOT-2018 Paper]](https://link.springer.com/chapter/10.1007/978-3-030-11009-3_1)):
 AR plot for camera motion in experiment baseline (Accuracy-Robustness: Experiment baseline)
 <img src="VOT2018%20results/AR plot for camera motion in experiment baseline_Accuracy-Robustness_Experiment baseline.png"/> 
 AR plot for experiment baseline (mean) (Accuracy-Robustness: Experiment baseline)
@@ -167,7 +167,7 @@ Overview Expected Overlap Analysis Experiment Analysis
 [![Drone1]](https://www.youtube.com/watch?v=RvmgMrItjmI)
 [![Flamingo]](https://www.youtube.com/watch?v=n0HDvwaMJaY)
 
-## Results on LaSOT dataset:
+## Results on LaSOT dataset ([[LaSOT Dataset]](https://cis.temple.edu/lasot/))([[LaSOT Paper]](https://arxiv.org/abs/1809.07845)):
 <img src="LaSOT%20results/1.png"/> 
 <img src="LaSOT%20results/16.png"/> 
 <img src="LaSOT%20results/2.png"/> 
