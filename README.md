@@ -200,7 +200,7 @@ Overview Expected Overlap Analysis Experiment Analysis
 <img src="LaSOT%20results/30.png"/> 
 
 ## References (Evaluated Visual Tracking Methods):
-[1] [C. Ma, J. B. Huang, X. Yang, and M. H. Yang, “Hierarchical convolutional features for visual tracking,” in Proc. IEEE ICCV, 2015, pp. 3074–3082. [HCFT]](https://ieeexplore.ieee.org/document/8434334)<br/>
+[1] [C. Ma, J. B. Huang, X. Yang, and M. H. Yang, “Hierarchical convolutional features for visual tracking,” in Proc. IEEE ICCV, 2015, pp. 3074–3082. [HCFT]](https://ieeexplore.ieee.org/document/7410709)<br/>
 
 [2] [M. Danelljan, G. Hager, F. S. Khan, and M. Felsberg, “Convolutional features for correlation filter based visual tracking,” in Proc. IEEE ICCVW, 2016, pp. 621–629. [DeepSRDCF]](https://www.cv-foundation.org/openaccess/content_iccv_2015_workshops/w14/papers/Danelljan_Convolutional_Features_for_ICCV_2015_paper.pdf)<br/>
 
