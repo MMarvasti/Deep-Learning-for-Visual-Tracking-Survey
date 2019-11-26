@@ -2,7 +2,7 @@
 The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods on the OTB-2013, OTB-2018, VOT-2018, and LaSOT datasets
 
 ## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on OTB-2013 Dataset (Ranking Based on Area under Curve (AUC)) [[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html) [[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156): 
-**Average Performance Comparisons of Visual Tracking Methods:**
+**- Average Performance Comparisons of Visual Tracking Methods:**
 <img src="OTB2013%20results/1.png"/> 
 <img src="OTB2013%20results/13.png"/>
 **Attribute-based Performance Comparisons (Eleven attributes including: Illumination Variation (IV), Scale Variation (SV), Occlusion (OCC), Deformation (DEF), Motion Blur (MB), Fast Motion (FM), In-Plane Rotation (IPR), Out-of-Plane Rotation (OPR), Out-of-View (OV), Background Clutter (BC), Low Resolution (LR)):**
