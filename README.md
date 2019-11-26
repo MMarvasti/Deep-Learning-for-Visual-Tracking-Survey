@@ -1,7 +1,7 @@
 # Deep Learning for Visual Tracking: A Comprehensive Survey
 The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods on the OTB-2013, OTB-2018, VOT-2018, and LaSOT datasets
 
-## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on OTB-2013 Dataset (Ranking Based on Area under Curve (AUC)) [[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html) [[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156): 
+## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on OTB-2013 Dataset (Ranking based on Area Under Curve (AUC)) [[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html) [[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156): 
 **- Average Performance Comparisons of Visual Tracking Methods:**
 <img src="OTB2013%20results/1.png"/> 
 <img src="OTB2013%20results/13.png"/>
@@ -29,7 +29,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 <img src="OTB2013%20results/12.png"/>
 <img src="OTB2013%20results/24.png"/>
 
-## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on OTB-2015 Dataset (Ranking Based on Area under Curve (AUC)) [[OTB-2015 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)[[OTB-2015 Paper]](https://ieeexplore.ieee.org/document/7001050):
+## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on OTB-2015 Dataset (Ranking based on Area Under Curve (AUC)) [[OTB-2015 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)[[OTB-2015 Paper]](https://ieeexplore.ieee.org/document/7001050):
 **- Average Performance Comparisons of Visual Tracking Methods:**
 <img src="OTB2015%20results/1.png"/> 
 <img src="OTB2015%20results/13.png"/>
@@ -216,7 +216,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 [Drone1_Video](https://www.youtube.com/watch?v=RvmgMrItjmI),
 [Flamingo_Video](https://www.youtube.com/watch?v=n0HDvwaMJaY).
 
-## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on LaSOT Dataset (Ranking Based on Area under Curve (AUC)) [[LaSOT Dataset]](https://cis.temple.edu/lasot/)[[LaSOT Paper]](https://arxiv.org/abs/1809.07845):
+## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on LaSOT Dataset (Ranking based on Area Under Curve (AUC)) [[LaSOT Dataset]](https://cis.temple.edu/lasot/)[[LaSOT Paper]](https://arxiv.org/abs/1809.07845):
 **- Average Performance Comparisons of Visual Tracking Methods:**
 <img src="LaSOT%20results/1.png"/> 
 <img src="LaSOT%20results/16.png"/> 
