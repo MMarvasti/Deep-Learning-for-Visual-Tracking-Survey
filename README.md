@@ -136,7 +136,7 @@ Overlap Overview Experiment Unsupervised
 Overview Expected Overlap Analysis Experiment Analysis
 <img src="VOT2018%20results/Overview Expected Overlap Analysis Experiment Analysis.png"/>
 
-## Qualitative Comparisons of State-of-the-art Visual Tracking Methods on VOT2018 Dataset (Under TraX Protocol (https://ieeexplore.ieee.org/document/6619156)):
+## Qualitative Comparisons of State-of-the-art Visual Tracking Methods on VOT2018 Dataset (Under [TraX Protocol] (https://www.sciencedirect.com/science/article/pii/S0925231217303065)):
 [BMX_Video](https://www.youtube.com/watch?v=M4GVQZt7MnU), 
 [Crabs1_Video](https://www.youtube.com/watch?v=NfpM9BqAaOo), 
 [Gymnastics3_Video](https://www.youtube.com/watch?v=fB9S314JZnc),
