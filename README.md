@@ -215,7 +215,7 @@ The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking
 [Birds1_Video](https://www.youtube.com/watch?v=sromxvJbQhs),
 [Drone1_Video](https://www.youtube.com/watch?v=RvmgMrItjmI),
 [Flamingo_Video](https://www.youtube.com/watch?v=n0HDvwaMJaY).
-
+<img src="VOT2018%20results/Fig8-1.jpg"/>
 
 ## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on LaSOT Dataset (Ranking based on Area Under Curve (AUC)) [[LaSOT Dataset]](https://cis.temple.edu/lasot/)[[LaSOT Paper]](https://arxiv.org/abs/1809.07845):
 **- Average Performance Comparisons of Visual Tracking Methods:**
