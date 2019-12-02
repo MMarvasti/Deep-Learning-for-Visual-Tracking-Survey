@@ -1,9 +1,9 @@
 # Deep Learning for Visual Tracking: A Comprehensive Survey
 
 ### The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods on the OTB-2013, OTB-2015, VOT-2018, and LaSOT datasets.
-=====================================================================================
+===============================================================================
 ### Licence: copyright 2019 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
-=====================================================================================
+===============================================================================
 ## Performance Comparison of Visual Trackers in terms of Precision and Success Plots on OTB-2013 Dataset (Ranking based on Area Under Curve (AUC)) [[OTB-2013 Dataset]](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html) [[OTB-2013 Paper]](https://ieeexplore.ieee.org/document/6619156): 
 **- Average Performance Comparisons of Visual Tracking Methods:**
 <img src="OTB2013%20results/1.png"/> 
