@@ -2,7 +2,7 @@
 
 ### The comprehensive comparisons of recent Deep Learning (DL)-based visual tracking methods on the OTB-2013, OTB-2015, VOT-2018, and LaSOT datasets ([Raw Results on OTB Dataset](https://drive.google.com/open?id=1YN8Bhyve0G8wkl4M-rWlnJnkDKKdraO8), [Raw Results on VOT Dataset](https://drive.google.com/open?id=1Nhm5__PoRya8Hdifc6m_v745QbjBNgWN), [Raw Results on LaSOT Dataset](https://drive.google.com/open?id=17kLB5dpy2qg_OtC51ljHLM9ZcaDdhitQ)).
 
-### Comparison will be updated soon with more datasets.!
+### Performance comparisons will be updated soon with more datasets & methods.!
 ===============================================================================
 ### Licence: copyright 2019 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 ===============================================================================
